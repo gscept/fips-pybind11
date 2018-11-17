@@ -1,0 +1,6 @@
+# fips-pybind11
+---
+
+exports:
+    header-dirs:
+        - pybind11/include
